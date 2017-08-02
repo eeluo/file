@@ -1,0 +1,7 @@
+<map id="DBCAnalyzer::MessageRecognizer" name="DBCAnalyzer::MessageRecognizer">
+<area shape="rect" id="node2" href="$d4/d7f/class_message.html#ae1742c724f46adc51155cebbd6b25f2c" title="Message::SetMessageName" alt="" coords="281,5,471,32"/>
+<area shape="rect" id="node3" href="$d4/d7f/class_message.html#ab1dee40ccdd91da853fd3147750ee735" title="Message::SetMsgID" alt="" coords="306,56,446,83"/>
+<area shape="rect" id="node4" href="$d4/d7f/class_message.html#a1d9eca0415aab54ee57c732f2b42dd74" title="Message::SetMsgSize" alt="" coords="299,107,453,133"/>
+<area shape="rect" id="node5" href="$d4/d7f/class_message.html#a3f8cf000398106f86b85ddf465ce9f6f" title="Message::SetMsgtransmitter" alt="" coords="281,157,471,184"/>
+<area shape="rect" id="node6" href="$d3/d6a/class_d_b_c_file_descriptor.html#ad528b923555b79c3df8be881228a8001" title="DBCFileDescriptor::\lAddMessage" alt="" coords="307,209,445,250"/>
+</map>

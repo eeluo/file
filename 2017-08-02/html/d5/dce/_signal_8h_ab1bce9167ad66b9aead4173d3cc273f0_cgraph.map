@@ -1,0 +1,11 @@
+<map id="operator&lt;&lt;" name="operator&lt;&lt;">
+<area shape="rect" id="node2" href="$dc/d20/class_signal.html#a6b2958ce22333f6567712741aa4e1cdd" title="Signal::Name" alt="" coords="153,5,253,32"/>
+<area shape="rect" id="node3" href="$dc/d20/class_signal.html#ac9978d275dae10bcc860faf035276b2e" title="Signal::StartBit" alt="" coords="147,56,258,83"/>
+<area shape="rect" id="node4" href="$dc/d20/class_signal.html#a9ce7c438816b69d08e89f99254e89218" title="Signal::SignalSize" alt="" coords="139,107,267,133"/>
+<area shape="rect" id="node5" href="$dc/d20/class_signal.html#a5d4f402739fa6051be491ee4171ccaa5" title="Signal::Factor" alt="" coords="151,157,254,184"/>
+<area shape="rect" id="node6" href="$dc/d20/class_signal.html#a27b0975bb5375b6b0a53c9cf086dc935" title="Signal::Offset" alt="" coords="153,208,253,235"/>
+<area shape="rect" id="node7" href="$dc/d20/class_signal.html#a713fa2403de34a02ea83d2565de673c2" title="Signal::Minimum" alt="" coords="143,259,262,285"/>
+<area shape="rect" id="node8" href="$dc/d20/class_signal.html#a732b847880c623937d52b1360ece6da1" title="Signal::Maximum" alt="" coords="141,309,264,336"/>
+<area shape="rect" id="node9" href="$dc/d20/class_signal.html#a2f3ac2bddcf0ce8e3fdf88e3368c9698" title="Signal::Unit" alt="" coords="158,360,247,387"/>
+<area shape="rect" id="node10" href="$dc/d20/class_signal.html#ac895fab047d5d9979f844ed2e97bd316" title="Signal::Receivers" alt="" coords="141,411,264,437"/>
+</map>
