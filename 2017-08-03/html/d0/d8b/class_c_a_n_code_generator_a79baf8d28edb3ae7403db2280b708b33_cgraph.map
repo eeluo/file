@@ -1,0 +1,11 @@
+<map id="CANCodeGenerator::GenerateMessageClassDefinition" name="CANCodeGenerator::GenerateMessageClassDefinition">
+<area shape="rect" id="node2" href="$d0/d8b/class_c_a_n_code_generator.html#af265af2e6857e5ec1022e489f9515ebd" title="CANCodeGenerator::Generate\lMessageClassHeader" alt="" coords="269,5,467,46"/>
+<area shape="rect" id="node5" href="$db/d2c/_commonlibs_for_code_gen_8cpp.html#aad05578e14f29cae9d5090544dec5ea2" title="AddIndent" alt="" coords="328,71,408,97"/>
+<area shape="rect" id="node6" href="$d0/d8b/class_c_a_n_code_generator.html#ae8ade0cd91a054fa48edfabddc14da58" title="CANCodeGenerator::Generate\lMessageClassConstructor" alt="" coords="269,122,467,163"/>
+<area shape="rect" id="node8" href="$d0/d8b/class_c_a_n_code_generator.html#a09ce98348df7fa27e3a1e41f91d55f24" title="CANCodeGenerator::Generate\lMessageClassUpdateSignalMethod" alt="" coords="254,187,482,229"/>
+<area shape="rect" id="node9" href="$d0/d8b/class_c_a_n_code_generator.html#ada1f9dee336b3af56c4b0ef24b7652a9" title="CANCodeGenerator::Generate\lMessageClassDataMemberDefinition" alt="" coords="251,253,485,294"/>
+<area shape="rect" id="node3" href="$d4/d7f/class_message.html#a3cf09e18d20e5dfd6d81b71565eb9931" title="Message::Name" alt="" coords="539,96,656,123"/>
+<area shape="rect" id="node4" href="$d4/d7f/class_message.html#ad1f9d15d7aa13888598eb83d51ef2124" title="Message::ID" alt="" coords="550,12,645,39"/>
+<area shape="rect" id="node7" href="$d4/d7f/class_message.html#a39f19860bc39a2716b971eae16b03996" title="Message::Signals" alt="" coords="534,195,661,221"/>
+<area shape="rect" id="node10" href="$dc/d20/class_signal.html#a6b2958ce22333f6567712741aa4e1cdd" title="Signal::Name" alt="" coords="547,260,647,287"/>
+</map>

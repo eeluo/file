@@ -1,0 +1,7 @@
+<map id="operator&lt;&lt;" name="operator&lt;&lt;">
+<area shape="rect" id="node2" href="$d4/d7f/class_message.html#a3cf09e18d20e5dfd6d81b71565eb9931" title="Message::Name" alt="" coords="165,5,283,32"/>
+<area shape="rect" id="node3" href="$d4/d7f/class_message.html#ad1f9d15d7aa13888598eb83d51ef2124" title="Message::ID" alt="" coords="177,56,271,83"/>
+<area shape="rect" id="node4" href="$d4/d7f/class_message.html#a8a59211b44ef893f873999d3cc71714b" title="Message::MsgSize" alt="" coords="157,107,291,133"/>
+<area shape="rect" id="node5" href="$d4/d7f/class_message.html#a371e018382d5d028bcfbfb22a53d0ab4" title="Message::Msgtransmitter" alt="" coords="139,157,309,184"/>
+<area shape="rect" id="node6" href="$d4/d7f/class_message.html#a39f19860bc39a2716b971eae16b03996" title="Message::Signals" alt="" coords="161,208,287,235"/>
+</map>

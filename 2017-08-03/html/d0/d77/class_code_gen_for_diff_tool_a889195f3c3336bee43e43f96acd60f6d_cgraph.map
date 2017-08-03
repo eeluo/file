@@ -1,0 +1,5 @@
+<map id="CodeGenForDiffTool::GetMessageInitalCode" name="CodeGenForDiffTool::GetMessageInitalCode">
+<area shape="rect" id="node2" href="$d4/d7f/class_message.html#ad1f9d15d7aa13888598eb83d51ef2124" title="Message::ID" alt="" coords="233,5,327,32"/>
+<area shape="rect" id="node3" href="$d4/d7f/class_message.html#a3cf09e18d20e5dfd6d81b71565eb9931" title="Message::Name" alt="" coords="221,56,339,83"/>
+<area shape="rect" id="node4" href="$d4/d7f/class_message.html#a39f19860bc39a2716b971eae16b03996" title="Message::Signals" alt="" coords="217,107,343,133"/>
+</map>
