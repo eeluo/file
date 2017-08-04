@@ -1,0 +1,7 @@
+<map id="CodeGenForDiffTool::GenerateCode" name="CodeGenForDiffTool::GenerateCode">
+<area shape="rect" id="node2" href="$d3/d6a/class_d_b_c_file_descriptor.html#a294c79e7b145a4a08da17971f19eeb1a" title="DBCFileDescriptor::\lMessages" alt="" coords="205,5,342,46"/>
+<area shape="rect" id="node3" href="$d0/d77/class_code_gen_for_diff_tool.html#a889195f3c3336bee43e43f96acd60f6d" title="CodeGenForDiffTool\l::GetMessageInitalCode" alt="" coords="193,70,354,111"/>
+<area shape="rect" id="node4" href="$d4/d7f/class_message.html#ad1f9d15d7aa13888598eb83d51ef2124" title="Message::ID" alt="" coords="419,27,514,53"/>
+<area shape="rect" id="node5" href="$d4/d7f/class_message.html#a3cf09e18d20e5dfd6d81b71565eb9931" title="Message::Name" alt="" coords="408,77,525,104"/>
+<area shape="rect" id="node6" href="$d4/d7f/class_message.html#a39f19860bc39a2716b971eae16b03996" title="Message::Signals" alt="" coords="403,128,530,155"/>
+</map>

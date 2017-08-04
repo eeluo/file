@@ -1,0 +1,10 @@
+<map id="message_search" name="message_search">
+<area shape="rect" id="node2" href="$d3/df5/_search_8cpp.html#adfec019c6ee0123aa38ed1adf2b544f9" title="search message&#39;s ID " alt="" coords="187,20,325,47"/>
+<area shape="rect" id="node4" href="$d3/df5/_search_8cpp.html#a597ac9ddc7efb2502e4126daa51ebdae" title="search message&#39;s name " alt="" coords="176,81,336,108"/>
+<area shape="rect" id="node6" href="$d3/df5/_search_8cpp.html#aaaaff41237981af94ca0cdff645034b3" title="search message&#39;s signal receiver " alt="" coords="179,139,333,165"/>
+<area shape="rect" id="node8" href="$d3/df5/_search_8cpp.html#a59e440218209fe45934652047f3d4f08" title="search message&#39;s transmitter " alt="" coords="184,193,328,234"/>
+<area shape="rect" id="node3" href="$d3/d6a/class_d_b_c_file_descriptor.html#aafdd668b6e17d3e24cda67c441cadd3b" title="search for message ID " alt="" coords="406,5,543,46"/>
+<area shape="rect" id="node5" href="$d3/d6a/class_d_b_c_file_descriptor.html#ae413ad360845b12d052879a34cb2587a" title="search for message name " alt="" coords="399,70,550,111"/>
+<area shape="rect" id="node7" href="$d3/d6a/class_d_b_c_file_descriptor.html#a25f2152387e0f112ca41bda5ade72839" title="search for signal&#39;s receiver " alt="" coords="397,135,552,177"/>
+<area shape="rect" id="node9" href="$d3/d6a/class_d_b_c_file_descriptor.html#a7b3613e688b539b1cabf245c3a0df842" title="search for message transmitter " alt="" coords="384,201,565,242"/>
+</map>

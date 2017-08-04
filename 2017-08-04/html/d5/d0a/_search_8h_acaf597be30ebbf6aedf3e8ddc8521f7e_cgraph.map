@@ -1,0 +1,51 @@
+<map id="analyzer" name="analyzer">
+<area shape="rect" id="node2" href="$d3/df5/_search_8cpp.html#abd5781c6cd331db0a4c94239121473f3" title="open file " alt="" coords="126,771,199,797"/>
+<area shape="rect" id="node20" href="$d3/df5/_search_8cpp.html#abd24850c697019849a7d723ba50c5ab5" title="search somthing " alt="" coords="132,919,193,945"/>
+<area shape="rect" id="node44" href="$d3/df5/_search_8cpp.html#a77845b3ef89c9b4df123a14b84846f16" title="print some " alt="" coords="133,1209,192,1236"/>
+<area shape="rect" id="node3" href="$d2/dec/class_d_b_c_analyzer.html#af68a75fab94524203e473490ad9ee170" title="DBCAnalyzer::Analyze" alt="" coords="248,520,403,547"/>
+<area shape="rect" id="node4" href="$d2/dec/class_d_b_c_analyzer.html#a9e01494c2cb2d77132e0260112ad0a0d" title="Analyzer a lines. " alt="" coords="451,359,653,401"/>
+<area shape="rect" id="node5" href="$d2/dec/class_d_b_c_analyzer.html#a129a1d14aa4028346e1b749289bbb1eb" title="Analyze the node section. " alt="" coords="715,64,917,91"/>
+<area shape="rect" id="node8" href="$d2/dec/class_d_b_c_analyzer.html#a7fa1e1e07c5bfeb09b5a0acfd501cae2" title="DBCAnalyzer::MessageRecognizer" alt="" coords="703,199,929,225"/>
+<area shape="rect" id="node14" href="$d3/d6a/class_d_b_c_file_descriptor.html#a294c79e7b145a4a08da17971f19eeb1a" title="DBCFileDescriptor::\lMessages" alt="" coords="747,250,885,291"/>
+<area shape="rect" id="node15" href="$d2/dec/class_d_b_c_analyzer.html#a74e2c7afb764251dc727ddef82f5633d" title="DBCAnalyzer::SignalRecognizer" alt="" coords="711,316,921,343"/>
+<area shape="rect" id="node16" href="$d2/dec/class_d_b_c_analyzer.html#a31de53104153f680947465ad360aaf3d" title="DBCAnalyzer::CommentRecognizer" alt="" coords="701,367,931,393"/>
+<area shape="rect" id="node17" href="$d2/dec/class_d_b_c_analyzer.html#a24e681bd01683007a6d7ecf8e8369942" title="Analyze the attribute section. " alt="" coords="705,417,927,444"/>
+<area shape="rect" id="node18" href="$d2/dec/class_d_b_c_analyzer.html#ae1fed5c41785c6a898c744a0728e3d75" title="DBCAnalyzer::AttributeValue\lRecognizer" alt="" coords="979,490,1170,531"/>
+<area shape="rect" id="node19" href="$d2/dec/class_d_b_c_analyzer.html#a37b43d333e9e7ef749ece75c5c534715" title="DBCAnalyzer::SignalValue\lRecognizer" alt="" coords="727,519,905,561"/>
+<area shape="rect" id="node6" href="$dc/d8f/class_node.html#a0d9cc541299d551216eeecbab6a4648f" title="Node::AddNodeName" alt="" coords="1001,5,1148,32"/>
+<area shape="rect" id="node7" href="$d3/d6a/class_d_b_c_file_descriptor.html#aa64db0582c19326bdf9f6f3cc4fb1e8f" title="DBCFileDescriptor::\lAddNode" alt="" coords="1006,57,1143,98"/>
+<area shape="rect" id="node9" href="$d4/d7f/class_message.html#ae1742c724f46adc51155cebbd6b25f2c" title="Message::SetMessageName" alt="" coords="979,123,1170,149"/>
+<area shape="rect" id="node10" href="$d4/d7f/class_message.html#ab1dee40ccdd91da853fd3147750ee735" title="Message::SetMsgID" alt="" coords="1005,173,1145,200"/>
+<area shape="rect" id="node11" href="$d4/d7f/class_message.html#a1d9eca0415aab54ee57c732f2b42dd74" title="Message::SetMsgSize" alt="" coords="997,224,1152,251"/>
+<area shape="rect" id="node12" href="$d4/d7f/class_message.html#a3f8cf000398106f86b85ddf465ce9f6f" title="Message::SetMsgtransmitter" alt="" coords="979,275,1170,301"/>
+<area shape="rect" id="node13" href="$d3/d6a/class_d_b_c_file_descriptor.html#ad528b923555b79c3df8be881228a8001" title="DBCFileDescriptor::\lAddMessage" alt="" coords="1006,326,1143,367"/>
+<area shape="rect" id="node21" href="$d3/df5/_search_8cpp.html#a8b28589a419aace7cbbfe8fa7242638c" title="search message " alt="" coords="265,723,386,749"/>
+<area shape="rect" id="node30" href="$d3/df5/_search_8cpp.html#aa741507048f6cc38334301cdcf48b839" title="search comment " alt="" coords="264,863,387,889"/>
+<area shape="rect" id="node33" href="$d3/df5/_search_8cpp.html#aa5114e1c3608f7922b400234a86e038d" title="search attribute " alt="" coords="268,919,383,945"/>
+<area shape="rect" id="node38" href="$d3/df5/_search_8cpp.html#a21db6e9d59c78de92ed1d53d3ae5d990" title="search attributevalue " alt="" coords="253,969,397,996"/>
+<area shape="rect" id="node41" href="$d3/df5/_search_8cpp.html#a52dbc81694703e943a971f7efb8ad671" title="search signalvalue " alt="" coords="260,1020,391,1047"/>
+<area shape="rect" id="node22" href="$d3/df5/_search_8cpp.html#adfec019c6ee0123aa38ed1adf2b544f9" title="search message&#39;s ID " alt="" coords="483,603,621,629"/>
+<area shape="rect" id="node24" href="$d3/df5/_search_8cpp.html#a597ac9ddc7efb2502e4126daa51ebdae" title="search message&#39;s name " alt="" coords="472,664,632,691"/>
+<area shape="rect" id="node26" href="$d3/df5/_search_8cpp.html#aaaaff41237981af94ca0cdff645034b3" title="search message&#39;s signal receiver " alt="" coords="475,723,629,749"/>
+<area shape="rect" id="node28" href="$d3/df5/_search_8cpp.html#a59e440218209fe45934652047f3d4f08" title="search message&#39;s transmitter " alt="" coords="480,778,624,819"/>
+<area shape="rect" id="node23" href="$d3/d6a/class_d_b_c_file_descriptor.html#aafdd668b6e17d3e24cda67c441cadd3b" title="search for message ID " alt="" coords="747,585,885,626"/>
+<area shape="rect" id="node25" href="$d3/d6a/class_d_b_c_file_descriptor.html#ae413ad360845b12d052879a34cb2587a" title="search for message name " alt="" coords="741,650,891,691"/>
+<area shape="rect" id="node27" href="$d3/d6a/class_d_b_c_file_descriptor.html#a25f2152387e0f112ca41bda5ade72839" title="search for signal&#39;s receiver " alt="" coords="739,715,893,757"/>
+<area shape="rect" id="node29" href="$d3/d6a/class_d_b_c_file_descriptor.html#a7b3613e688b539b1cabf245c3a0df842" title="search for message transmitter " alt="" coords="725,781,907,822"/>
+<area shape="rect" id="node31" href="$d3/df5/_search_8cpp.html#a7dd58dbaf1eb35f1942e86446f8b124a" title="search comment&#39;s message ID " alt="" coords="475,849,629,890"/>
+<area shape="rect" id="node32" href="$d3/d6a/class_d_b_c_file_descriptor.html#a62698365e6c2661ce832fc512243d2d6" title="search for comment&#39;s message id,the second parameter will contain these class " alt="" coords="725,846,907,887"/>
+<area shape="rect" id="node34" href="$d3/df5/_search_8cpp.html#a6ca970ad4bf7ac4478c7f846a5713178" title="search attribute&#39;s name " alt="" coords="475,919,629,945"/>
+<area shape="rect" id="node36" href="$d3/df5/_search_8cpp.html#adf04a20247888a1d8fb62a010dd89c4d" title="search attribute&#39;s valuetype " alt="" coords="487,971,617,1013"/>
+<area shape="rect" id="node35" href="$d3/d6a/class_d_b_c_file_descriptor.html#a26141cea156a7e62a465c2f86b6ba3ea" title="search for attribute_definitoin&#39;s attribute_name,the second parameter will contain these class ..." alt="" coords="743,911,889,953"/>
+<area shape="rect" id="node37" href="$d3/d6a/class_d_b_c_file_descriptor.html#aa9be78f76880b748e1331f262a0c872b" title="search for attribute_definitoin&#39;s object type,the second parameter will contain these class ..." alt="" coords="745,977,887,1018"/>
+<area shape="rect" id="node39" href="$d3/df5/_search_8cpp.html#a12eb4796eef0fd2422018ec843c90239" title="search attributevalue&#39;s object type " alt="" coords="469,1038,635,1079"/>
+<area shape="rect" id="node40" href="$d3/d6a/class_d_b_c_file_descriptor.html#a91cf404d7dc8906677fa582ada3566f2" title="search for attribute_value&#39;s object type,the second parameter will contain these class ..." alt="" coords="711,1042,921,1083"/>
+<area shape="rect" id="node42" href="$d3/df5/_search_8cpp.html#a64bbdc0f6613c55de294021ffc0354f6" title="search signalavue&#39;s message ID " alt="" coords="479,1106,625,1147"/>
+<area shape="rect" id="node43" href="$d3/d6a/class_d_b_c_file_descriptor.html#a84097c64ee3521ae254512db62a96598" title="search for signal value&#39;s message ID " alt="" coords="719,1107,913,1149"/>
+<area shape="rect" id="node45" href="$d3/d6a/class_d_b_c_file_descriptor.html#a473edc50f98fb3b98de6fc460019e872" title="output messages " alt="" coords="257,1071,394,1113"/>
+<area shape="rect" id="node46" href="$d3/d6a/class_d_b_c_file_descriptor.html#a178f4c650a70986d0824ceeedb766ff2" title="output comments " alt="" coords="257,1137,394,1178"/>
+<area shape="rect" id="node47" href="$d3/d6a/class_d_b_c_file_descriptor.html#a8310e68727349ccc735fc769618b2e23" title="output attributes " alt="" coords="257,1202,394,1243"/>
+<area shape="rect" id="node48" href="$d3/d6a/class_d_b_c_file_descriptor.html#a0af4e7fa436e277ec487bea1da85dc47" title="output attribute values " alt="" coords="256,1267,395,1309"/>
+<area shape="rect" id="node49" href="$d3/d6a/class_d_b_c_file_descriptor.html#ab93eca1e35a21c9383e503fc24881236" title="output signalvalues " alt="" coords="257,1333,394,1374"/>
+<area shape="rect" id="node50" href="$d3/d6a/class_d_b_c_file_descriptor.html#a9699e595a90adf84112255cc6b163ea6" title="output " alt="" coords="257,1398,394,1439"/>
+</map>
